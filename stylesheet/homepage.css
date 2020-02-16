@@ -23,7 +23,7 @@
   
   /* MARK: - First Block Start */
   #first-block {
-    background-image: url("../images/asai.jpg");
+    background-image: url("../images/Hunsui.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
@@ -126,14 +126,14 @@
   }
   
   .image-first{
-    background-image: url("../images/room.jpg");
+    background-image: url("../images/KeyBo.jpeg");
     background-size:  cover;
     width: 400px;
     height: 200px;
     margin-left: 60px;
   }
   .image-second{
-    background-image: url("../images/cat.jpg");
+    background-image: url("../images/kinkaku.jpeg");
     background-size:  cover;
     width: 400px;
     height: 200px;
