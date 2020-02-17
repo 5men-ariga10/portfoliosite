@@ -87,6 +87,12 @@
   .mybtn-ig:hover {
     background: rgba(212, 90, 151, 0.7);
   }
+  .mybtn-nt {
+    background: #31d6f3;
+  }
+  .mybtn-ig:hover {
+    background: rgba(177, 211, 206, 0.7);
+  }
   /* MARK: - First Block End */
   
   /* MARK: - Second Block Start */
